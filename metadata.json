@@ -1,0 +1,6 @@
+{
+  "name": "Bersama Popo — With Popo",
+  "description": "A bilingual Indonesian and English introduction to caring for Popo in Hong Kong, written with honesty, Lis's own words, daily routines, Cantonese phrases, and meeting preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
